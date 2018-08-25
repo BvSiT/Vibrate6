@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VibrateChrono</string>
+    <string name="btnStart">Start</string>
+    <string name="btnStop">Stop</string>
+    <string name="editBpm">100</string>
+    <string name="txt_lblBpm">Bpm</string>
+</resources>
